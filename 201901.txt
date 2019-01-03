@@ -1,0 +1,44 @@
+tomcat cach
+jsp==servlet
+
+spring bean lifecycle
+bean  construm
+prop
+beannameaware
+beanfactoryaware
+applicationcontextaware
+beanpostprocessor   beforeinitialization
+init-method
+beanpostprocessor afterinitailizaion
+disposablebean  destroy
+destroy-method
+
+
+springmvc
+
+dispatchservlet
+service
+dispatch
+
+handlermap
+handleadapter
+handler  controller
+modelveiw
+veiwresolve
+veiw
+
+
+
+是测试	
+
+spring multidatasource
+AbstractRoutingDataSource
+determineCurrentLookupKey()
+override
+
+getConnection
+determineTargetDataSource
+TreadLocal  datasource key
+
+
+
