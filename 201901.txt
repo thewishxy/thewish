@@ -41,3 +41,6 @@ determineTargetDataSource
 TreadLocal  datasource key
 
 what
+
+
+string pool   locate
