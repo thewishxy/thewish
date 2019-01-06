@@ -62,6 +62,11 @@ unfair   not get / try cas  state++
 
 produce   consumer
 
+redis    simple dymatic string
+dictionary  hashmap    slow reshash
+skip table
+ziplist
+
 
 
 
