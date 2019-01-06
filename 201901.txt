@@ -44,3 +44,25 @@ what
 
 
 string pool   locate
+
+threadpool  status
+
+
+
+mysql
+index fail     row lock to  table lock
+show status like '%innor_row_lock%'
+
+share mode   not  update
+
+
+java lock  fair  unfair
+fair   first not get   /  try cas
+unfair   not get / try cas  state++
+
+produce   consumer
+
+
+
+
+
