@@ -28,8 +28,7 @@ veiwresolve
 veiw
 
 
-
-是测试	
+	
 
 spring multidatasource
 AbstractRoutingDataSource
@@ -46,6 +45,15 @@ what
 string pool   locate
 
 threadpool  status
+submit executor  
+<coorsize   addworker   threadfacotry  thread(this)  run   firsttask   gettask 
+add throw exception
+offer true false
+put  blocking
+
+remove throw exception
+poll null
+take blocking
 
 
 
