@@ -100,7 +100,19 @@ mandatory  if there is not transaction  throw exception
 requires_new
 not_supported  a required  b notsupported  a call b   b has no transaction
 never a required b never  b throw exception
-nested  a required b nested   
+nested  a required b nested   b fail  to the  a save point
+
+
+tree  before  center  after iterator
+data  sort
+spring aop  theory
+transaction theory    undo log:
+tcp three shakehand
+tow   four
+web  
+	
+
+
 
 
 
