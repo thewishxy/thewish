@@ -1,5 +1,5 @@
 tomcat cach
-jsp==servlet
+	jsp==servlet
 
 spring bean lifecycle
 bean  construm
@@ -39,10 +39,10 @@ getConnection
 determineTargetDataSource
 TreadLocal  datasource key
 
-what
 
 
-string pool   locate
+
+string pool   locate   heap
 
 threadpool  status
 submit executor  
@@ -93,6 +93,15 @@ black lenght consiscy
 mysql master slaver
 binary log  iotread   sqltread  relay  log
 mysqld  servreid  log
+
+required   new transaction     rollback all A B
+supports  there is a transaction use this    no transaction  new a transaction
+mandatory  if there is not transaction  throw exception
+requires_new
+not_supported  a required  b notsupported  a call b   b has no transaction
+never a required b never  b throw exception
+nested  a required b nested   
+
 
 
 
