@@ -112,6 +112,17 @@ tow   four
 web  
 	
 
+sproing  aop  order   1mutidatasource   2tx
+interceptor   boolean  prehander     reverse  void  posthandler  void aftercompletion
+
+                   a
+       b                        c  
+  d          e                            g
+f
+
+before     a  b  d  f e  c  g
+center     f  d  b  e  a   c  g
+after      f d  e b  g  c  a
 
 
 
