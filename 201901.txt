@@ -126,6 +126,23 @@ after      f d  e b  g  c  a
 
 
 
+cluster  node overload     consiscy hash   virtural node
+key  value  large
+argiothom  adjust  key route
+
+nginx  theory
+
+redis thread model   memory modeal
+redis cluster thoery    extend  capacity data lost   key locate argioythm
+
+cach cluster  indecident     how can service available
+
+redis   qps   capacity
+how  extned capacity    need resstart~  consiscy extend
+redis  inner core
+mysql  inner core
+dubbo  theory
 
 
 
+	
