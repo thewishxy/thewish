@@ -143,6 +143,44 @@ redis  inner core
 mysql  inner core
 dubbo  theory
 
+bubble sort   o(n2)  o(n) o(n2)   o(1)  stable
+hurry  sort   o(nlog2n)  o(nlog2n)  o(n2)  o(nlog2n  not stable)
+
+insert sort   o(n2) o(n)  o(n2)  o(1)  stable
+xer sort     o(n1.3)  o(n)  o(n2)  o(1)   not stable
+
+select sort  o(n2)  o(n2)  o(n2)  o(1)    not stable
+heap sort    o(nlog2n)  o(nlog2n)  o(nlog2n)  1   not stable
+
+merge sort  o(nlog2n)  o(nlog2n)   o(nlog2n)  n   staable
+
+counting sort   n+k   n+k  n+k    n+k   stable
 
 
-	
+du -sh
+du -ah  --max-depth = 1 
+
+
+
+http 
+dns  cash
+dns remote
+ip tcp/ip
+return html
+jss  jpg
+brower render
+
+
+tcp ip  
+client send syn  message
+server send  syn+acq
+client send acq
+
+
+client send  fin
+server  acq
+client stop
+
+server  fin acq
+clent  ack
+server stop
