@@ -184,3 +184,20 @@ client stop
 server  fin acq
 clent  ack
 server stop
+
+spring-boot
+init context  inside web context   
+spring-boot-starters
+spring-context 	spring bean
+spring-boot-autoconfigure
+enable auto configure    hander conf  proior
+spring-boot-cli
+cmd  watch files  auto compiler  restart
+spring-boot-actuator
+spring-boota-actuator-autofigure
+spring-boot-test
+spring-boot-test-autoconfigure
+spring-boot-loader
+spring-boot-devtools
+
+
