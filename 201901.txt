@@ -228,3 +228,22 @@ spring-boot-loader
 spring-boot-devtools
 
 arraylist  can null   ensurecapacity   1.5      serializable  transent elementData  override  wirteobject    interger.maxsize - max.array.size =8
+
+
+gg   shift+gg  ctl  d   u   f  b       
+$ line end   ^line  start  0
+
+eureka   register-center  concurrenthashmap<String,map>
+read write cach    read cache       outdate
+
+retry  mi ===
+
+hadoop  namenode   editlog standby namenode checkpoinnt      every block 3 copy in diff server
+vim  redo cacel key
+
+tcc
+
+
+
+
+
