@@ -204,6 +204,7 @@ spring-boot-devtools
 arraylist  can null   ensurecapacity   1.5      serializable  transent elementData  override  wirteobject    interger.maxsize - max.array.size =8
 
 
+<<<<<<< HEAD
 ques
 classdef not found     
 replace jar
@@ -214,6 +215,20 @@ arthas  sc -d
 projoect dir  filter   uapfwjcl module
 module.xml
 
+=======
+gg   shift+gg  ctl  d   u   f  b       
+$ line end   ^line  start  0
+
+eureka   register-center  concurrenthashmap<String,map>
+read write cach    read cache       outdate
+
+retry  mi ===
+
+hadoop  namenode   editlog standby namenode checkpoinnt      every block 3 copy in diff server
+vim  redo cacel key
+
+tcc
+>>>>>>> ec39c1f62b40cb9708f2f5a2c7cee481908e3503
 
 
 
