@@ -62,33 +62,6 @@ index fail     row lock to  table lock
 show status like '%innor_row_lock%'
 
 share mode   not  update
-inndb     transactioon    row lock       cach index file       qurey row count   
-myisam  no transaction    table lock     cach index            have row count
-
-redolog    everyscecond flush   don't need too large       trac commit  cach data bigger 1/2 flush too    keep trans  consiscey 
-	   cach file too large   undo need long time    too small  switch log file 
-
-
-undolog
-
-insert buffer   data_buffer    index_buffer    redo_log_buffer		double_write
-redolog   continue  write      binalog   commit write
-
-binlog  statememnt  save io     row  keep data available
-
-io dump thread   io thread     sql thread
-innodb_flush_log_at_trx_commit=1
-sync_binlog=1   write binlog  1 time  flush to log file
-
-mysql replication copy delay
-ddl  not  act   db run
-table  suipian
-table staticstic info
-m-s   mha   mm keepalived   pxc
-
-innodb_trx  innodb_locks innnodb_lock_waits
-
-
 
 
 java lock  fair  unfair
@@ -227,4 +200,22 @@ spring-boot-test-autoconfigure
 spring-boot-loader
 spring-boot-devtools
 
+
 arraylist  can null   ensurecapacity   1.5      serializable  transent elementData  override  wirteobject    interger.maxsize - max.array.size =8
+
+
+ques
+classdef not found     
+replace jar
+remote debug
+class.forname   classloader   exception breakpoint
+arthas  sc -d 
+
+projoect dir  filter   uapfwjcl module
+module.xml
+
+
+
+
+
+
