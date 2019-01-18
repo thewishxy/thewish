@@ -208,12 +208,26 @@ arraylist  can null   ensurecapacity   1.5      serializable  transent elementDa
 ques
 classdef not found     
 replace jar
-remote debug
+remote debu/
 class.forname   classloader   exception breakpoint
 arthas  sc -d 
 
 projoect dir  filter   uapfwjcl module
 module.xml
+ques
+cache not hit
+
+1800cahe  sencond not find
+
+weakrefrence   softreferenc   strongreforrence  cacheconfig
+flush  time
+cachelevel   file
+
+cache  business  prio
+
+name match
+
+fisrt  change the cache
 
 =======
 gg   shift+gg  ctl  d   u   f  b       
