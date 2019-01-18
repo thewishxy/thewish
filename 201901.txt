@@ -231,6 +231,13 @@ tcc
 >>>>>>> ec39c1f62b40cb9708f2f5a2c7cee481908e3503
 
 
+https://github.com/aalansehaiyang/technology-talk
+https://github.com/seaswalker/Spring
+https://github.com/roncoo/spring-boot-demo
 
+linkedlist   use  foreach   not for   list.get() waste time
+
+copyonwritearraylist   read write depart     
+hashmap   transent    tow  vm   hashcode not consiscy    key value can null
 
 
