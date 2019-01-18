@@ -240,4 +240,9 @@ linkedlist   use  foreach   not for   list.get() waste time
 copyonwritearraylist   read write depart     
 hashmap   transent    tow  vm   hashcode not consiscy    key value can null
 
+zookeepr    orderlist     listner pre node 
+
+java8  longadder
+aqs   state    lockthread   waitingqueue
+
 
