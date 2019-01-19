@@ -241,6 +241,7 @@ retry  mi ===
 hadoop  namenode   editlog standby namenode checkpoinnt      every block 3 copy in diff server
 vim  redo cacel key
 
+httpload  tool
 tcc
 >>>>>>> ec39c1f62b40cb9708f2f5a2c7cee481908e3503
 
@@ -258,5 +259,11 @@ zookeepr    orderlist     listner pre node
 
 java8  longadder
 aqs   state    lockthread   waitingqueue
+
+rabbit  low thoery  logic theory   physical  theory  data persistencc  cluster archi     qps   deploy  
+kafka   low theory   disk store how      how   dis archi     high tolerance       zero copy     sourcecode  
+rocketmq  dis transaction   theory   source code 
+design  mq
+
 
 
