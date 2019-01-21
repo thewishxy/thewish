@@ -219,14 +219,6 @@ cache not hit
 
 1800cahe  sencond not find
 
-weakrefrence   softreferenc   strongreforrence  cacheconfig
-flush  time
-cachelevel   file
-
-cache  business  prio
-
-name match
-
 fisrt  change the cache
 
 =======
