@@ -258,4 +258,16 @@ rocketmq  dis transaction   theory   source code
 design  mq
 
 
+-weakrefrence   softreferenc   strongreforrence  cacheconfig
+-flush  time
+-cachelevel   file
+-
+-cache  business  prio
+-
+-name match
+
+
+
+
+
 
