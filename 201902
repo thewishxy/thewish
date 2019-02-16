@@ -1,0 +1,5 @@
+du -sh
+du -sk filename
+du -lh --max-depth=1
+
+ aes  advanced encryption standard
